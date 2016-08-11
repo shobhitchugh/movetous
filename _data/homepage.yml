@@ -109,37 +109,16 @@ featuring:
       image: "https://graph.facebook.com/scottbrit/picture?width=400&height=400"
   bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
-bonuses:
-  - logo: "<a href='http://usefedora.com/?src=mdi-homepage' target='_blank'><img src='http://usefedora.com/images/logos/Fedora_Logo_v2_fixed.png'></a>"
-    text: "<strong>3 free months</strong> of any <a href='http://usefedora.com/?src=mdi-homepage' target='_blank'>Fedora</a> plan to build your online school"
-    value: "Value up to $897"
-  - logo: "<a href='http://convertkit.com/' target='_blank'><img src='https://s3-us-west-2.amazonaws.com/static-css-assets/logo/convert-kit.png'></a>"
-    text: "<strong>3 free months</strong> of any <a href='http://convertkit.com' target='_blank'>ConvertKit</a> plan to handle email marketing"
-    value: "Value up to $747"
-  - logo: "<img src='https://s3-us-west-2.amazonaws.com/static-css-assets/icons/question-mark.jpg'>"
-    text: "More bonuses to be announced"
-    value: "$$$"
 
 signup_2:
   title: "Get a free lesson when this course launches"
   button: "Sign me up"
 
 faq:
-  title: "Frequently Asked Questions"
-  qa:
-    - question: "Is this course applicable for people that are already teaching online?"
-      answer: "Absolutely. In fact, if you are already teaching online, chances are you'd be able to recoup your investment in this course in a matter of days by following some of the more advanced marketing strategies discussed. Even experienced course creators will be able to benefit from some of the production hacks shared by Bitfountain - in addition, to the marketing knowledge of course."
-    - question: "How much does this course cost?"
-      answer: "We have not determined pricing yet - but it will likely be around $100 for a limited time after launch."
-    - question: "When will this course open?"
-      answer: "We're looking to launch the course for a couple of days around December 15th. After opening enrollments for a couple of days, we are going to focus on helping the students inside the course achieve results. Based on how much time we have to invest, we may open up sign ups again in the future. To ensure you don't miss out on a spot, write a note to watch your email around December 15th. "
-    - question: "Is there any specialized equipment that I will need?"
-      answer: "While technically all you need to launch your course will be an internet connection, laptop and mic, as your business grows we'll walk you through using the specific recording equiptment we've used to create high-quality productions. Additionally, all the software products discussed in the course such as Fedora, ConvertKit and SumoMe will be available as a free bonus to anyone who purchases the course."
-    - question: "What is the refund policy?"
-      answer: "If you are unhappy with the course for absolutely any reason 30 days after purchase, we'll refund 100% of your money without asking any questions."
+
 
 footer:
-  copyright: "&copy; 2014, Million Dollar Instructor"
+  copyright: "&copy; 2016, Immigrant Central"
   contact: "Get in touch"
   email: "ankur@usefedora.com"
       
