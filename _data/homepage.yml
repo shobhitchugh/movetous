@@ -53,8 +53,7 @@ letter:
   contents:
     - paragraph: "<strong>It is time to get educated</strong>"
     - paragraph: "I moved to the US in 2002. I had no idea how much I did not know about the country. From driving to living, from banking to making sure I used politically accepted language, from dating to making friends - I had a LOT to learn. All this happened over several years, and I made several mistakes along the way."
-    - paragraph: "Fast forward 14 years, and I am settled here with a wonderful wife who grew up here in the US, and two beautiful kids. That's us below. "
-  image: "https://c1.staticflickr.com/9/8872/28891283736_08f6238c22_o.jpg"
+    - paragraph: "Fast forward 14 years, and I am settled here with a wonderful wife who grew up here in the US, and two beautiful kids. "
     - paragraph: "But even now, as more of my friends and family have moved to the US, they have had to learn the same things again. Some of it is adventure! And some - pure stress. So I had a dream - what if I could help new immigrants adjust faster to the US? What if my experience, and the experience of people I interview, helps everyone moving here? This is why I started ImmigrantHQ. "
     - paragraph: "One of the most impactful areas - and where I am going to start - is the financial system of this country. When I moved here, I knew people had credit cards - but had no idea what purpose they sent. I would not qualify for car loans, credit cards - even cellphones. And I thought paying any amount of interest on anything was bad!"
     - paragraph: "Move forward 14 years, and I have seen a huge number of people go through the exact same questions, the same anxieties, and face the same risks. How cool it would be if they had this knowledge from the beginning?"
@@ -64,6 +63,7 @@ letter:
     - paragraph: " Shobhit, Founder at ImmigrantHQ.com"
     - paragraph: ""
     - paragraph: ""
+#  image: "https://c1.staticflickr.com/9/8872/28891283736_08f6238c22_o.jpg"
 signup_2:
   title: "Get a free lesson when this course launches"
   button: "Sign me up"
