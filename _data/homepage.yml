@@ -5,7 +5,7 @@ hero:
 
 testimonial:
   quote: "After helping dozens immigrants understand how best to work in the US financial system, establish a solid credit history, and not waste tons of money in banking, credit card and interest fees, I decided to launch this course for recent and future immigrants to America."
-  person: "<strong>Shobhit Chugh</strong>, <em>Founder at ImmigrantHQ.io</a></em>"
+  person: "<strong>Shobhit Chugh</strong>, <em>Founder at ImmigrantHQ.com</a></em>"
   image: "https://c7.staticflickr.com/9/8740/28824252086_46843474df_o.jpg"
 
 about:
@@ -54,13 +54,13 @@ letter:
   subtitle: "Moving to a new country is stressful. It's critical to be prepared"
   image: "https://c7.staticflickr.com/9/8740/28824252086_46843474df_o.jpg"
   contents:
-    - paragraph: "I moved to the US in 2002. I had no idea how much I did not know about the country. From driving to eating, from banking to learning the behavioral norms, from dating to making friends - I had a LOT to learn. All this happened over several years, and I made several mistakes along the way. And the fear of not knowing everything made the move an adventure; but also <b> extremely stressful</b>"
-    - paragraph: "I am now settled here with a wonderful wife who grew up here in the US, and two beautiful kids. My journey has taken me several places - working at some of the most reputed companies in the world like McKinsey & Company, starting multiple companies, working at Tamr (one of Boston's hottest startups) and studying at Kellogg, one of the top Business Schools in the US"
+    - paragraph: "I moved to the US in 2002. I had no idea how much I did not know about the country. From driving to eating, from banking to learning behavioral norms, from dating to making friends - I had a <b>LOT to learn<b>. All this happened over several years, and I made several mistakes along the way. And the fear of not knowing everything made the move an adventure; but also <b> extremely stressful</b>"
+    - paragraph: "I am now settled here with a wonderful wife who grew up here in the US, and two beautiful kids. My journey has taken me several places - working at some of the most reputed companies in the world like <a href='http://www.mckinsey.com' target='_blank'>McKinsey & Company</a>, starting multiple companies, worked at some of Boston's one of Boston's hottest startups like <a href='http://www.tamr.com'  target='_blank'>Tamr</a>, and studies at <a href='http://www.kellogg.northwestern.edu'  target='_blank'>Kellogg</a>, one of the top Business Schools in the US"
     - paragraph: "In these 14+ years I have seen and helped dozens of people go through the exact same questions, the same anxieties, and face the same risks. How cool it would be if they had this knowledge from the beginning?"
-    - paragraph: "Now they can. I am creating ImmigrantHQ to impart as much of the practical knowledge that I have accumulated over the years, thanks to guidance from friends, family and relatives. But I hope you can know it from day one so you make the right decisions right now!"
+    - paragraph: "Now they can. I am creating ImmigrantHQ to impart the practical knowledge that I have accumulated over the years. In addition, I will feature dozens of interviews from others who have made the adjustment"
     - paragraph: "One of the most impactful areas - and where I am going to start - is the financial system of this country. When I moved here, I knew people had credit cards - but had no idea what purpose they served. I would not qualify for car loans, credit cards - even cellphones. And I thought paying any amount of interest on anything was bad!"
     - paragraph: "As I get ready for our launch, you can sign up below to get your first lesson completely free. And if you know someone who is currently moving to the US, pass this information along!"
-    - paragraph: " Shobhit, Founder at ImmigrantHQ.com"
+    - paragraph: " Shobhit, Founder at <b>ImmigrantHQ.com</b>"
 #  image: "https://c1.staticflickr.com/9/8872/28891283736_08f6238c22_o.jpg"
 signup_2:
   title: "Get a free lesson when this course launches"
