@@ -15,7 +15,7 @@ about:
   third_paragraph: "Get smart about your move to the US. Through bitesized lessons and dozens of checklists and resource guides, avoid the same mistakes that cost new immigrants <b> countless hours, tons of stress and hundreds to thousands of dollars.</b>"
   fourth_paragraph: "Start with one of the most impactful areas; that of <b>personal finance.</b> This course will help you understand everything you need to, to take the stress out of managing your personal finances and establish a strong financial footing in the US"
   #:</p><strong><p>Part 1: Basics of the US financial system</strong><br/>What are credit bureaus? Are free checking accounts really free? What is credit theft? Why do people use credit cards all the time? Understand the big picture of the US financial system, so that you don’t get lost in important conversations.</p> </p> <strong><p>Part 2: How to build your credit history</strong><br/>Without a good credit score, you cannot - rent an apartment, get a mortgage, get a car loan, get a credit card, even get a cellphone contract. So when you move to the US for the first time, how do you get on the path to building a good credit score? Understand how to progressively build a strong credit history while avoiding costly mistakes.</p> <strong><p>Part 3: Banking and Personal Finance</strong><br/>Where should you bank? How much cash should you carry? Should you use a credit card for everything? How should you invest money in the beginning? Learn how to bank and manage personal finances in the USA without - well - breaking the bank :)."
-  call_to_action: "Get me my first lesson - now!"
+  call_to_action: "Get me FREE preview course!"
 
 learn:
   title: "In this course you will learn"
@@ -46,7 +46,7 @@ learn:
       description: "Make sure you have the right paperwork if you ever need to present for the government"
       
 signup:
-  title: "Get a free lesson when this course launches"
+  title: "Get my FREE preview course when it launches"
   button: "Sign me up"
 
 letter:
@@ -59,11 +59,11 @@ letter:
     - paragraph: "In these 14+ years I have seen and helped dozens of people go through the exact same questions, the same anxieties, and face the same risks. How cool it would be if they had this knowledge from the beginning?"
     - paragraph: "Now they can. I am creating ImmigrantHQ to impart the practical knowledge that I have accumulated over the years. In addition, I will feature dozens of interviews from others who have made the adjustment"
     - paragraph: "One of the most impactful areas - and where I am going to start - is the financial system of this country. When I moved here, I knew people had credit cards - but had no idea what purpose they served. I would not qualify for car loans, credit cards - even cellphones. And I thought paying any amount of interest on anything was bad!"
-    - paragraph: "As I get ready for our launch, you can sign up below to get your first lesson completely free. And if you know someone who is currently moving to the US, pass this information along!"
+    - paragraph: "As I get ready for our launch, you can sign up below to get your first preview course completely free. And if you know someone who is currently moving to the US, pass this information along!"
     - paragraph: " Shobhit, Founder at <b>ImmigrantHQ.com</b>"
 #  image: "https://c1.staticflickr.com/9/8872/28891283736_08f6238c22_o.jpg"
 signup_2:
-  title: "Get a free lesson when this course launches"
+  title: "Get my FREE preview course on the American Financial System"
   button: "Sign me up"
 
 #faq:
